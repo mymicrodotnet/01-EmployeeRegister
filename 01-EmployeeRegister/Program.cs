@@ -51,7 +51,8 @@ while (true)
                 Console.WriteLine("Invalid salary."); // If the salary cannot be converted to an int, show an error
                 break;
             }
-            // salary validation 
+
+            // salary validation 2
             if (salary < 0)
             {
                 Console.WriteLine("Salary cannot be negative.");
