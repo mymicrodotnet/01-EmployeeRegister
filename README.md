@@ -58,6 +58,8 @@ Store employees in a list.
 Display all registered employees.
 Exit the program.
 
+<img src="assets/employee-register.png" alt="Employee Register screenshot" width="500">
+
 The program also validates the employee's name and salary input.
 
 # Extra functionalities (to be implemented)
