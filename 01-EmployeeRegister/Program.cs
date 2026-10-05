@@ -22,7 +22,7 @@ List<Employee> employees = new List<Employee>();
 
 while (true)
 {
-    Console.WriteLine("\nEmployee Register");
+    Console.WriteLine("\n*****Employee Register*****");
     Console.WriteLine("1. Register employee");
     Console.WriteLine("2. Show employees");
     Console.WriteLine("3. Exit");
@@ -97,6 +97,7 @@ class Employee
         Salary = salary;// Property Salary = parameter salary or this.Salary=salary
     }
 
+    // This is a method
     public void DisplayInfo()
     {
         System.Console.WriteLine($"Name: {Name} Salary: {Salary}");
