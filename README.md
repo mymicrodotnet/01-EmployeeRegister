@@ -62,7 +62,7 @@ Exit the program.
 
 The program also validates the employee's name and salary input.
 
-# Extra functionalities (to be implemented)
+# Extra functionalities
 
-- Full "CRUD"
-- xUnit Test Project (EmployeeRegister.Tests)
+- xUnit Test Project (EmployeeRegister.Tests) (implemented)
+- Full "CRUD"  (to be implemented)
