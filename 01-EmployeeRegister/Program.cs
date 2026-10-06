@@ -84,7 +84,7 @@ while (true)
 
 
 // Class declaration
-class Employee
+public class Employee
 {
     // This is get, set
     public string Name { get; set; }
